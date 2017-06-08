@@ -9,7 +9,7 @@ import javax.swing.*;
 public class Main {
 
     public static void main(String[] args) throws Exception, InterruptedException, org.bytedeco.javacv.FrameRecorder.Exception {
-        recordCamera("rtmp://172.19.1.7/live/roomm", 25);
+        recordCamera("rtmp://117.48.202.213/live/roomm", 25);
     }
 
     /**
